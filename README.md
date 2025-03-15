@@ -1,7 +1,3 @@
-以下に、「カスタムスクリプト」という表現を「ProtoFlux」に修正し、免責事項も含めたREADMEを作成しました。
-
----
-
 # Resonite WebSocket シンプルサーバー
 
 このプロジェクトは、PythonでWebSocketサーバーを作成し、Resoniteからメッセージを送受信するサンプルコードです。  
